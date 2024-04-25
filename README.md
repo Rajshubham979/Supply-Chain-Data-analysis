@@ -28,9 +28,3 @@ To replicate this project or contribute to it, follow these steps:
 - `SupplyChainDashboard.pbix`: Power BI file containing the dashboard.
 - `SupplyChainData.xlsx`: Excel file containing sample supply chain data.
 
-## Credits
-This project was created by [Your Name] and is available on GitHub at [Link to GitHub Repository].
-
-## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
-
